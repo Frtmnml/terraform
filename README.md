@@ -1,2 +1,2 @@
 # terraform
-Discovering Terraform 🪨
+Discovering Terraform 🦉
