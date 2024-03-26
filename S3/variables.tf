@@ -5,3 +5,14 @@ variable "bucket_name" {
     type = string
 }
 
+variable "access_key" {
+    description     = "access_key"
+    type            = string
+    senstive        = true
+}
+
+variable "secret_key" {
+    description     = "access_key"
+    type            = string
+    senstive        = true
+}
